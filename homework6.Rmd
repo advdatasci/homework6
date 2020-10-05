@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Preface 
 
 * When you have completed the assignment, knit the R Markdown, commit your changes and push to GitHub.
-* If you do not include axis labels and plot titles, then points will be deducted.
+* Please include axis labels and plot titles on all plots
 * This homework assignment may be completed in another programming language (like Python) if so please submit as a Juypyter Notebook viewable on Github 
 * You are welcome and encouraged to discuss homework problems with others - however, you should cite their work/words/code if you end up using their approach. If you copy other's code/words directly or indirectly without attribution that will be considered plagiarism.  
 
